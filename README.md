@@ -1,4 +1,4 @@
-# Gude, ich bin Michael Koch 👋
+# Hi, ich bin Michael 👋
 
 **Fullstack-Softwareentwickler aus Frankfurt am Main.**
 
