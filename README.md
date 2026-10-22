@@ -14,7 +14,7 @@ Mit persönlicher Comicfigur, Tag- und Nachtmodus, Straßenlaternen und einer be
 
 <a href="https://michael-koch-portfolio.onrender.com/"><img src="assets/portfolio-alte-oper-nacht.png" alt="Nachtaufnahme meines Frankfurt-Portfolios: persönliche Comicfigur vor der beleuchteten Alten Oper, mit Brunnen und Straßenlaternen" width="640"></a>
 
-*Nachtaufnahme vor der Alten Oper – Entwicklungsstand vom 22. Oktober 2026. Die neuesten Stadt- und Figurenänderungen sind noch nicht in der verlinkten Live-Version veröffentlicht.*
+*Nachtaufnahme vor der Alten Oper – Entwicklungsstand vom 22. Oktober 2026. Die aktualisierte Stadt und Comicfigur sind in der verlinkten Live-Version verfügbar.*
 
 ## Technologien in meinen Projekten
 
