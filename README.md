@@ -10,9 +10,11 @@ Mein Portfolio ist eine kleine Stadt im Comicstil: Erkunde Frankfurt zu Fuß, en
 
 ### [🌆 Mein interaktives Portfolio öffnen →](https://michael-koch-portfolio.onrender.com/)
 
-Mit spielbarer Figur, Tag- und Nachtmodus, Straßenlaternen und einer belebten Stadtkulisse.
+Mit persönlicher Comicfigur, Tag- und Nachtmodus, Straßenlaternen und einer belebten Stadtkulisse. Die Stadt wächst um detailliertere Plätze und weitere begehbare Viertel.
 
-<a href="https://michael-koch-portfolio.onrender.com/"><img src="assets/portfolio.png" alt="Mein begehbares Frankfurt-Portfolio mit Römer und persönlicher Spielfigur" width="640"></a>
+<a href="https://michael-koch-portfolio.onrender.com/"><img src="assets/portfolio-2026-10-22.png" alt="Aktueller Entwicklungsstand meines Frankfurt-Portfolios mit Römerberg, vollständiger Comicfigur und erweitertem Lageplan" width="640"></a>
+
+*Vorschau des Entwicklungsstands vom 22. Oktober 2026. Die neuesten Stadt- und Figurenänderungen sind noch nicht in der verlinkten Live-Version veröffentlicht.*
 
 ## Technologien in meinen Projekten
 
