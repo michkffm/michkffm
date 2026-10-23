@@ -21,7 +21,7 @@ I enjoy developing software, exploring new technologies and turning ideas into w
 
 I’m a problem solver who enjoys turning everyday, manual processes into digital solutions. I take ideas through the entire journey: from the first concept through development to a finished application that makes everyday life easier.
 
-![“Anyone who has never made a mistake has never tried anything new.” — Albert Einstein](assets/einstein-en.gif)
+![“Anyone who has never made a mistake has never tried anything new.” — Albert Einstein](assets/einstein-face-en.gif)
 
 ## Technologies & tools
 
