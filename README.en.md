@@ -2,8 +2,8 @@
 
 ![Michael Koch — Frankfurt skyline with a walking figure](assets/frankfurt-aircraft.gif)
 
-[![Deutsche Version](assets/language-de-compact.gif)](https://github.com/michkffm/michkffm/blob/main/README.md)
-[![English Version](assets/language-en-compact.gif)](https://github.com/michkffm/michkffm/blob/main/README.en.md)
+[![Deutsche Version](assets/language-de-flags.gif)](https://github.com/michkffm/michkffm/blob/main/README.md)
+[![English Version](assets/language-en-flags.gif)](https://github.com/michkffm/michkffm/blob/main/README.en.md)
 
 **Fullstack developer from Frankfurt am Main.**
 
