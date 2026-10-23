@@ -18,7 +18,7 @@
 
 Ich entwickle Web-Anwendungen und praktische Python-Werkzeuge. Mich interessiert der Weg von einer Idee zu einer Anwendung, in der Oberfläche, API und Daten zusammenpassen.
 
-Im Gemeinschaftsprojekt habe ich die Projektleitung übernommen und in mehreren Bereichen mitentwickelt.
+Ich denke in Lösungen und verwandle analoge Abläufe gerne in digitale Möglichkeiten. Dabei begleite ich den gesamten Weg: von der ersten Idee über die Entwicklung bis zum fertigen Programm, das den Alltag einfacher macht.
 
 ![„Wer noch nie einen Fehler gemacht hat, hat sich noch nie an etwas Neuem versucht.“ — Albert Einstein](assets/einstein-de.gif)
 
