@@ -20,9 +20,7 @@ I build web applications and practical Python tools. I enjoy turning an idea int
 
 In our team project, I took on project management and contributed to several parts of the application.
 
-> “Anyone who has never made a mistake has never tried anything new.”
->
-> — Albert Einstein
+![“Anyone who has never made a mistake has never tried anything new.” — Albert Einstein](assets/einstein-en.gif)
 
 ## Technologies & tools
 

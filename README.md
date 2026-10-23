@@ -20,9 +20,7 @@ Ich entwickle Web-Anwendungen und praktische Python-Werkzeuge. Mich interessiert
 
 Im Gemeinschaftsprojekt habe ich die Projektleitung übernommen und in mehreren Bereichen mitentwickelt.
 
-> „Wer noch nie einen Fehler gemacht hat, hat sich noch nie an etwas Neuem versucht.“
->
-> — Albert Einstein
+![„Wer noch nie einen Fehler gemacht hat, hat sich noch nie an etwas Neuem versucht.“ — Albert Einstein](assets/einstein-de.gif)
 
 ## Technologien & Werkzeuge
 
