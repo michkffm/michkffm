@@ -89,6 +89,12 @@ Lernprojekt für E-Mail-Bestätigung und anschließende Passwortwahl.
 
 Gemeinschaftsprojekt für Dienstleistungen, Nachrichten und Bewertungen. Mein Beitrag: Projektleitung und Mitarbeit in mehreren Bereichen.
 
+[![Spielzeit · Tic-Tac-Toe](assets/Tic-Tac-Toe.gif)](https://github.com/michkffm/Tic-Tac-Toe)
+
+Tic-Tac-Toe für zwei Personen an einem Gerät. Direkt im Browser spielbar; das Repository enthält zusätzlich ein lokales Flask-Backend mit SQLite zum Speichern von Spielständen. Die Browser-Demo läuft ohne Serverspeicherung.
+
+[**Jetzt spielen →**](https://michkffm.github.io/Tic-Tac-Toe/) · [Repository](https://github.com/michkffm/Tic-Tac-Toe)
+
 Die Projekt-READMEs beschreiben Einrichtung, Entwicklungsstand und bekannte Einschränkungen.
 
 ## Frankfurt zu Fuß entdecken 🌆
