@@ -73,6 +73,12 @@ My focus is on understanding the fundamentals and exploring practical applicatio
 
 ## Selected projects
 
+[![Spielzeit · Tic-Tac-Toe](assets/Tic-Tac-Toe.gif)](https://github.com/michkffm/Tic-Tac-Toe)
+
+Tic-tac-toe for two people on one device. Play directly in the browser; the repository also includes a local Flask backend with SQLite for saving games. The browser demo runs without server-side storage.
+
+[**Play now →**](https://michkffm.github.io/Tic-Tac-Toe/) · [Repository](https://github.com/michkffm/Tic-Tac-Toe)
+
 [![PDF → EPUB — Python / PyQt6 / OCR](assets/PDF-zu-Epub-Konverter.gif)](https://github.com/michkffm/PDF-zu-Epub-Konverter)
 
 Desktop tool for PDF conversion, optical character recognition and EPUB output.
@@ -88,12 +94,6 @@ Learning project for email verification followed by password creation.
 [![FinalProject — React / Tailwind / Node.js](assets/FinalProject.gif)](https://github.com/michkffm/FinalProject)
 
 Team project for services, messages and reviews. My contribution: project management and development across several areas.
-
-[![Spielzeit · Tic-Tac-Toe](assets/Tic-Tac-Toe.gif)](https://github.com/michkffm/Tic-Tac-Toe)
-
-Tic-tac-toe for two people on one device. Play directly in the browser; the repository also includes a local Flask backend with SQLite for saving games. The browser demo runs without server-side storage.
-
-[**Play now →**](https://michkffm.github.io/Tic-Tac-Toe/) · [Repository](https://github.com/michkffm/Tic-Tac-Toe)
 
 Project READMEs describe setup, development status and known limitations.
 
