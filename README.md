@@ -11,7 +11,7 @@
 
 [![Kontakt per E-Mail](https://img.shields.io/badge/Kontakt_per_E--Mail-michkffm%40icloud.com-73e8cc?style=for-the-badge)](mailto:michkffm@icloud.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=michkffm&label=Profile%20views&color=157f78&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=michkffm&amp;label=PROFILAUFRUFE&amp;color=007f70&amp;style=for-the-badge" alt="Profilaufrufe" height="36">
 
 </div>
 
