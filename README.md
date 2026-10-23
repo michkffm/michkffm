@@ -43,14 +43,19 @@ Im Gemeinschaftsprojekt habe ich die Projektleitung übernommen und in mehreren 
 <img src="assets/threejs-card.svg" width="42" height="42" alt="Three.js" title="Three.js">
 <img src="assets/azure-card.svg" width="42" height="42" alt="Microsoft Azure" title="Microsoft Azure">
 <img src="assets/amazonwebservices-card.svg" width="42" height="42" alt="AWS — Amazon Web Services" title="AWS — Amazon Web Services">
+<img src="assets/mysql-card.svg" width="42" height="42" alt="MySQL" title="MySQL">
+<img src="assets/postgresql-card.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL">
+<img src="assets/sqlite-card.svg" width="42" height="42" alt="SQLite" title="SQLite">
+<img src="assets/mariadb-card.svg" width="42" height="42" alt="MariaDB" title="MariaDB">
+<img src="assets/docker-card.svg" width="42" height="42" alt="Docker" title="Docker">
 </p>
 
 | Bereich | Technologien |
 | --- | --- |
 | Frontend | HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Tailwind CSS |
 | Backend & APIs | Node.js, Express, Python, REST-APIs |
-| Datenbanken & SQL | MongoDB, MySQL · SQL (Abfragesprache) |
-| Entwicklung & Werkzeuge | Git, GitHub, Azure DevOps, Vite |
+| Datenbanken & SQL | MongoDB, MySQL, PostgreSQL, SQLite, MariaDB · SQL (Abfragesprache) |
+| Entwicklung & Werkzeuge | Git, GitHub, Azure DevOps, Docker, Vite |
 | Cloud & DevOps | Microsoft Azure, Azure DevOps, AWS (Amazon Web Services) |
 | Interaktive 3D-Welten | Three.js, React Three Fiber, Rapier |
 
