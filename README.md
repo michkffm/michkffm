@@ -16,7 +16,7 @@
 
 ## Hi, ich bin Michael 👋
 
-Ich entwickle Web-Anwendungen, praktische Python-Werkzeuge und interaktive 3D-Welten. Mich interessiert der Weg von einer Idee zu einer Anwendung, in der Oberfläche, API und Daten zusammenpassen.
+Ich entwickle Web-Anwendungen und praktische Python-Werkzeuge. Mich interessiert der Weg von einer Idee zu einer Anwendung, in der Oberfläche, API und Daten zusammenpassen.
 
 Im Gemeinschaftsprojekt habe ich die Projektleitung übernommen und in mehreren Bereichen mitentwickelt.
 

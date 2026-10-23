@@ -16,7 +16,7 @@
 
 ## Hi, I’m Michael 👋
 
-I build web applications, practical Python tools and interactive 3D worlds. I enjoy turning an idea into an application where the interface, API and data fit together.
+I build web applications and practical Python tools. I enjoy turning an idea into an application where the interface, API and data fit together.
 
 In our team project, I took on project management and contributed to several parts of the application.
 
