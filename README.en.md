@@ -32,13 +32,15 @@ In our team project, I took on project management and contributed to several par
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/bootstrap/bootstrap-original.svg" width="42" height="42" alt="Bootstrap" title="Bootstrap">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/express/express-original.svg" width="42" height="42" alt="Express" title="Express">
+<img src="assets/express-card.svg" width="42" height="42" alt="Express" title="Express">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" title="MongoDB">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/azuredevops/azuredevops-original.svg" width="42" height="42" alt="Azure DevOps" title="Azure DevOps">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/github/github-original.svg" width="42" height="42" alt="GitHub" title="GitHub">
+<img src="assets/github-card.svg" width="42" height="42" alt="GitHub" title="GitHub">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vitejs/vitejs-original.svg" width="42" height="42" alt="Vite" title="Vite">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/threejs/threejs-original.svg" width="42" height="42" alt="Three.js" title="Three.js">
+<img src="assets/threejs-card.svg" width="42" height="42" alt="Three.js" title="Three.js">
+<img src="assets/azure-card.svg" width="42" height="42" alt="Microsoft Azure" title="Microsoft Azure">
+<img src="assets/amazonwebservices-card.svg" width="42" height="42" alt="AWS — Amazon Web Services" title="AWS — Amazon Web Services">
 </p>
 
 | Area | Technologies |
@@ -47,6 +49,7 @@ In our team project, I took on project management and contributed to several par
 | Backend & APIs | Node.js, Express, Python, REST APIs |
 | Databases | MongoDB |
 | Development & tools | Git, GitHub, Azure DevOps, Vite |
+| Cloud & DevOps | Microsoft Azure, Azure DevOps, AWS (Amazon Web Services) |
 | Interactive 3D | Three.js, React Three Fiber, Rapier |
 
 ## AI, MCP & learning 🤖
