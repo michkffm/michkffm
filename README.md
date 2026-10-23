@@ -21,7 +21,7 @@ Ich entwickle gerne Software, entdecke neue Technologien und mache aus Ideen fun
 
 Ich denke in Lösungen und verwandle analoge Abläufe gerne in digitale Möglichkeiten. Dabei begleite ich den gesamten Weg: von der ersten Idee über die Entwicklung bis zum fertigen Programm, das den Alltag einfacher macht.
 
-![„Wer noch nie einen Fehler gemacht hat, hat sich noch nie an etwas Neuem versucht.“ — Albert Einstein](assets/einstein-playful-de.gif)
+![„Wer noch nie einen Fehler gemacht hat, hat sich noch nie an etwas Neuem versucht.“ — Albert Einstein](assets/einstein-alternating-de.gif)
 
 ## Technologien & Werkzeuge
 
