@@ -20,6 +20,10 @@ I build web applications, practical Python tools and interactive 3D worlds. I en
 
 In our team project, I took on project management and contributed to several parts of the application.
 
+> “Anyone who has never made a mistake has never tried anything new.”
+>
+> — Albert Einstein
+
 ## Technologies & tools
 
 <p align="center">

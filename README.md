@@ -20,6 +20,10 @@ Ich entwickle Web-Anwendungen, praktische Python-Werkzeuge und interaktive 3D-We
 
 Im Gemeinschaftsprojekt habe ich die Projektleitung übernommen und in mehreren Bereichen mitentwickelt.
 
+> „Wer noch nie einen Fehler gemacht hat, hat sich noch nie an etwas Neuem versucht.“
+>
+> — Albert Einstein
+
 ## Technologien & Werkzeuge
 
 <p align="center">
