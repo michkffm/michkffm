@@ -49,7 +49,7 @@ In our team project, I took on project management and contributed to several par
 | --- | --- |
 | Frontend | HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Tailwind CSS |
 | Backend & APIs | Node.js, Express, Python, REST APIs |
-| Databases | MongoDB |
+| Databases & SQL | MongoDB, MySQL · SQL (query language) |
 | Development & tools | Git, GitHub, Azure DevOps, Vite |
 | Cloud & DevOps | Microsoft Azure, Azure DevOps, AWS (Amazon Web Services) |
 | Interactive 3D | Three.js, React Three Fiber, Rapier |

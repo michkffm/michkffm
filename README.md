@@ -49,7 +49,7 @@ Im Gemeinschaftsprojekt habe ich die Projektleitung übernommen und in mehreren 
 | --- | --- |
 | Frontend | HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Tailwind CSS |
 | Backend & APIs | Node.js, Express, Python, REST-APIs |
-| Datenbanken | MongoDB |
+| Datenbanken & SQL | MongoDB, MySQL · SQL (Abfragesprache) |
 | Entwicklung & Werkzeuge | Git, GitHub, Azure DevOps, Vite |
 | Cloud & DevOps | Microsoft Azure, Azure DevOps, AWS (Amazon Web Services) |
 | Interaktive 3D-Welten | Three.js, React Three Fiber, Rapier |
