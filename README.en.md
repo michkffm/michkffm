@@ -8,8 +8,7 @@
 
 **Frontend · Backend · REST APIs · JavaScript · TypeScript · Python**
 
-[![Email](https://img.shields.io/badge/Email-michkffm%40icloud.com-73e8cc?style=for-the-badge)](mailto:michkffm@icloud.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Frankfurt-31566b?style=for-the-badge)](https://michael-koch-portfolio.onrender.com/)
+[![Contact by email](https://img.shields.io/badge/Contact_by_email-michkffm%40icloud.com-73e8cc?style=for-the-badge)](mailto:michkffm@icloud.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=michkffm&label=Profile%20views&color=157f78&style=flat-square)
 
@@ -89,7 +88,7 @@ My existing portfolio presents my work as an interactive city. Explore it with a
 
 ## Let’s get in touch
 
-Questions about a project or an idea for working together?
+Questions about a project or an idea for working together? Email me directly:
 
 **[michkffm@icloud.com](mailto:michkffm@icloud.com)**
 
