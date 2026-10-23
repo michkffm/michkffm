@@ -17,7 +17,7 @@
 
 ## Hi, I’m Michael 👋
 
-I build web applications and practical Python tools. I enjoy turning an idea into an application where the interface, API and data fit together.
+I enjoy developing software, exploring new technologies and turning ideas into working applications. What motivates me most is solving challenging problems and creating something that helps people in their everyday lives.
 
 I’m a problem solver who enjoys turning everyday, manual processes into digital solutions. I take ideas through the entire journey: from the first concept through development to a finished application that makes everyday life easier.
 

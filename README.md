@@ -17,7 +17,7 @@
 
 ## Hi, ich bin Michael 👋
 
-Ich entwickle Web-Anwendungen und praktische Python-Werkzeuge. Mich interessiert der Weg von einer Idee zu einer Anwendung, in der Oberfläche, API und Daten zusammenpassen.
+Ich entwickle gerne Software, entdecke neue Technologien und mache aus Ideen funktionierende Anwendungen. Besonders motiviert mich, knifflige Probleme zu lösen und etwas zu schaffen, das Menschen im Alltag weiterhilft.
 
 Ich denke in Lösungen und verwandle analoge Abläufe gerne in digitale Möglichkeiten. Dabei begleite ich den gesamten Weg: von der ersten Idee über die Entwicklung bis zum fertigen Programm, das den Alltag einfacher macht.
 
