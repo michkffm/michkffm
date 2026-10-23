@@ -1,0 +1,96 @@
+<div align="center">
+
+![Michael Koch — Frankfurt skyline with a walking figure](assets/frankfurt.gif)
+
+**[Deutsch](https://github.com/michkffm/michkffm/blob/main/README.md) · [English](https://github.com/michkffm/michkffm/blob/main/README.en.md)**
+
+**Fullstack developer from Frankfurt am Main.**
+
+**Frontend · Backend · REST APIs · JavaScript · TypeScript · Python**
+
+[![Email](https://img.shields.io/badge/Email-michkffm%40icloud.com-73e8cc?style=for-the-badge)](mailto:michkffm@icloud.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Frankfurt-31566b?style=for-the-badge)](https://michael-koch-portfolio.onrender.com/)
+
+![Profile views](https://komarev.com/ghpvc/?username=michkffm&label=Profile%20views&color=157f78&style=flat-square)
+
+</div>
+
+## Hi, I’m Michael 👋
+
+I build web applications, practical Python tools and interactive 3D worlds. I enjoy turning an idea into an application where the interface, API and data fit together.
+
+In our team project, I took on project management and contributed to several parts of the application.
+
+## Technologies & tools
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" title="HTML5">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" title="CSS3">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" width="42" height="42" alt="React" title="React">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/bootstrap/bootstrap-original.svg" width="42" height="42" alt="Bootstrap" title="Bootstrap">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/express/express-original.svg" width="42" height="42" alt="Express" title="Express">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" title="MongoDB">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/azuredevops/azuredevops-original.svg" width="42" height="42" alt="Azure DevOps" title="Azure DevOps">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/github/github-original.svg" width="42" height="42" alt="GitHub" title="GitHub">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vitejs/vitejs-original.svg" width="42" height="42" alt="Vite" title="Vite">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/threejs/threejs-original.svg" width="42" height="42" alt="Three.js" title="Three.js">
+</p>
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Tailwind CSS |
+| Backend & APIs | Node.js, Express, Python, REST APIs |
+| Databases | MongoDB |
+| Development & tools | Git, GitHub, Azure DevOps, Vite |
+| Interactive 3D | Three.js, React Three Fiber, Rapier |
+
+## AI, MCP & learning 🤖
+
+I’m expanding my knowledge of artificial intelligence and exploring how it connects to web development and Python.
+
+- **MCP (Model Context Protocol):** connecting AI applications with tools, APIs and data sources.
+- **LLMs (Large Language Models):** exploring language models and their integration into applications.
+- **Machine Learning:** learning how models identify patterns in data and make predictions.
+- **Deep Learning:** building an understanding of neural networks and how they are trained.
+
+My focus is on understanding the fundamentals and exploring practical applications. These are current learning interests; my linked projects show my work so far.
+
+## Selected projects
+
+[![PDF → EPUB — Python / PyQt6 / OCR](assets/PDF-zu-Epub-Konverter.gif)](https://github.com/michkffm/PDF-zu-Epub-Konverter)
+
+Desktop tool for PDF conversion, optical character recognition and EPUB output.
+
+[![Bewerbungstracker — JavaScript / CSS / localStorage](assets/Bewerbungtracker.gif)](https://github.com/michkffm/Bewerbungtracker)
+
+Track applications and their status. Data stays in the browser.
+
+[![Fullstack Registration — React / Express / MongoDB](assets/Fullstack-Registration.gif)](https://github.com/michkffm/Fullstack-Registration)
+
+Learning project for email verification followed by password creation.
+
+[![FinalProject — React / Tailwind / Node.js](assets/FinalProject.gif)](https://github.com/michkffm/FinalProject)
+
+Team project for services, messages and reviews. My contribution: project management and development across several areas.
+
+Project READMEs describe setup, development status and known limitations.
+
+## Explore Frankfurt on foot 🌆
+
+My existing portfolio presents my work as an interactive city. Explore it with a personal comic character and a day/night mode.
+
+[**Open portfolio →**](https://michael-koch-portfolio.onrender.com/)
+
+## Let’s get in touch
+
+Questions about a project or an idea for working together?
+
+**[michkffm@icloud.com](mailto:michkffm@icloud.com)**
+
+<sub>The visitor counter measures image requests, not unique people.</sub>
