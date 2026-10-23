@@ -1,6 +1,6 @@
 <div align="center">
 
-![Michael Koch — Frankfurt skyline with a walking figure](assets/frankfurt.gif)
+![Michael Koch — Frankfurt skyline with a walking figure](assets/frankfurt-skyline.gif)
 
 **[Deutsch](https://github.com/michkffm/michkffm/blob/main/README.md) · [English](https://github.com/michkffm/michkffm/blob/main/README.en.md)**
 
