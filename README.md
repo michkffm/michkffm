@@ -105,12 +105,6 @@ Gemeinschaftsprojekt für Dienstleistungen, Nachrichten und Bewertungen. Mein Be
 
 Die Projekt-READMEs beschreiben Einrichtung, Entwicklungsstand und bekannte Einschränkungen.
 
-## Frankfurt zu Fuß entdecken 🌆
-
-Mein bestehendes Portfolio zeigt meine Arbeit als interaktive Stadt. Erkunde sie mit einer persönlichen Comicfigur und einem Tag- und Nachtmodus.
-
-[**Portfolio erkunden →**](https://michael-koch-portfolio.onrender.com/)
-
 ## Kontakt
 
 Fragen zu einem Projekt oder eine Idee für die Zusammenarbeit? Schreib mir direkt per E-Mail:
@@ -118,4 +112,3 @@ Fragen zu einem Projekt oder eine Idee für die Zusammenarbeit? Schreib mir dire
 **[michkffm@icloud.com](mailto:michkffm@icloud.com)**
 
 <sub>Der Besucherzähler erfasst Bildaufrufe, keine eindeutigen Personen.</sub>
-
