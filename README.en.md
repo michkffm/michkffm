@@ -105,12 +105,6 @@ Team project for services, messages and reviews. My contribution: project manage
 
 Project READMEs describe setup, development status and known limitations.
 
-## Explore Frankfurt on foot 🌆
-
-My existing portfolio presents my work as an interactive city. Explore it with a personal comic character and a day/night mode.
-
-[**Open portfolio →**](https://michael-koch-portfolio.onrender.com/)
-
 ## Let’s get in touch
 
 Questions about a project or an idea for working together? Email me directly:
@@ -118,4 +112,3 @@ Questions about a project or an idea for working together? Email me directly:
 **[michkffm@icloud.com](mailto:michkffm@icloud.com)**
 
 <sub>The visitor counter measures image requests, not unique people.</sub>
-
