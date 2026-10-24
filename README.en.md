@@ -9,7 +9,7 @@
 
 **Frontend · Backend · REST APIs · JavaScript · TypeScript · Python**
 
-[![My portfolio – Visit website](https://img.shields.io/badge/My_Portfolio-Visit_website-eb4330?style=for-the-badge)](https://portfolio-kontakt.vercel.app/)
+[![My portfolio – Visit website](https://img.shields.io/badge/My_Portfolio-Visit_website-eb4330?style=for-the-badge)](https://michael-koch-portfolio.vercel.app/)
 
 [![Contact by email](https://img.shields.io/badge/Contact_by_email-michkffm%40icloud.com-73e8cc?style=for-the-badge)](mailto:michkffm@icloud.com)
 
@@ -21,7 +21,7 @@
 
 Projects, skills and contact details, with interactive animations and a switch between German and English.
 
-[**Visit portfolio →**](https://portfolio-kontakt.vercel.app/) · [Projects](https://portfolio-kontakt.vercel.app/cases.html) · [Contact](https://portfolio-kontakt.vercel.app/contact.html)
+[**Visit portfolio →**](https://michael-koch-portfolio.vercel.app/) · [Projects](https://michael-koch-portfolio.vercel.app/cases.html) · [Contact](https://michael-koch-portfolio.vercel.app/contact.html)
 
 ## Hi, I’m Michael 👋
 
