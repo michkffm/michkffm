@@ -9,11 +9,19 @@
 
 **Frontend · Backend · REST-APIs · JavaScript · TypeScript · Python**
 
+[![Mein Portfolio – Website ansehen](https://img.shields.io/badge/Mein_Portfolio-Website_ansehen-eb4330?style=for-the-badge)](https://portfolio-kontakt.vercel.app/)
+
 [![Kontakt per E-Mail](https://img.shields.io/badge/Kontakt_per_E--Mail-michkffm%40icloud.com-73e8cc?style=for-the-badge)](mailto:michkffm@icloud.com)
 
 <img src="https://komarev.com/ghpvc/?username=michkffm&amp;label=PROFILAUFRUFE&amp;color=007f70&amp;style=for-the-badge" alt="Profilaufrufe" height="36">
 
 </div>
+
+## Mein Portfolio
+
+Projekte, Kenntnisse und Kontakt – mit interaktiven Animationen und Sprachwechsel zwischen Deutsch und Englisch.
+
+[**Portfolio ansehen →**](https://portfolio-kontakt.vercel.app/) · [Projekte](https://portfolio-kontakt.vercel.app/cases.html) · [Kontakt](https://portfolio-kontakt.vercel.app/contact.html)
 
 ## Hi, ich bin Michael 👋
 
@@ -110,3 +118,4 @@ Fragen zu einem Projekt oder eine Idee für die Zusammenarbeit? Schreib mir dire
 **[michkffm@icloud.com](mailto:michkffm@icloud.com)**
 
 <sub>Der Besucherzähler erfasst Bildaufrufe, keine eindeutigen Personen.</sub>
+
