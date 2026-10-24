@@ -68,6 +68,12 @@ I’m a problem solver who enjoys turning everyday, manual processes into digita
 | Cloud & DevOps | Microsoft Azure, Azure DevOps, AWS (Amazon Web Services) |
 | Interactive 3D | Three.js, React Three Fiber, Rapier |
 
+## My programming languages
+
+![Language breakdown of my public GitHub projects](assets/languages-en.svg)
+
+<sub>Updated automatically every day. Includes public original repositories, excluding forks and this profile repository. Shares represent code size, not time spent or proficiency. Team projects may be included.</sub>
+
 ## AI, MCP & learning 🤖
 
 I’m expanding my knowledge of artificial intelligence and exploring how it connects to web development and Python.

@@ -68,6 +68,12 @@ Ich denke in Lösungen und verwandle analoge Abläufe gerne in digitale Möglich
 | Cloud & DevOps | Microsoft Azure, Azure DevOps, AWS (Amazon Web Services) |
 | Interaktive 3D-Welten | Three.js, React Three Fiber, Rapier |
 
+## Meine Programmiersprachen
+
+![Sprachanteile meiner öffentlichen GitHub-Projekte](assets/languages-de.svg)
+
+<sub>Automatisch täglich aktualisiert. Berücksichtigt öffentliche eigene Repositories ohne Forks und ohne dieses Profil-Repository. Die Anteile beruhen auf der Codegröße, nicht auf Arbeitszeit oder Kenntnisstand. Auch Teamprojekte können enthalten sein.</sub>
+
 ## KI, MCP & aktuelle Lernthemen 🤖
 
 Ich erweitere mein Wissen über künstliche Intelligenz und beschäftige mich mit der Verbindung von KI, Webentwicklung und Python.

@@ -1,0 +1,45 @@
+name: Update profile languages
+
+on:
+  # GitHub may disable schedules after 60 days without repository activity.
+  # Re-enable under Actions > Update profile languages if that happens.
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/update_languages.py
+      - tests/test_languages.py
+      - .github/workflows/languages.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-languages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+      - name: Test chart generation
+        run: python3 -m unittest discover -s tests -v
+      - name: Fetch public language statistics
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_OWNER: ${{ github.repository_owner }}
+        run: python3 scripts/update_languages.py
+      - name: Save updated charts
+        run: |
+          git add assets/languages-de.svg assets/languages-en.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update profile language statistics'
+          git push
