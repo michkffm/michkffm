@@ -70,7 +70,7 @@ I’m a problem solver who enjoys turning everyday, manual processes into digita
 
 ## My programming languages
 
-![Language breakdown of my public GitHub projects](assets/languages-en.svg)
+![Language breakdown of my public GitHub projects](assets/languages-en.svg?v=2)
 
 <sub>Updated automatically every day. Includes public original repositories, excluding forks and this profile repository. Shares represent code size, not time spent or proficiency. Team projects may be included.</sub>
 
