@@ -35,7 +35,7 @@ jobs:
         run: python3 scripts/update_languages.py
       - name: Save updated charts
         run: |
-          git add assets/languages-de.svg assets/languages-en.svg
+          git add assets/languages-de-v2.svg assets/languages-en-v2.svg
           if git diff --cached --quiet; then
             exit 0
           fi

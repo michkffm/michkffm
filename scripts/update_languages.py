@@ -102,7 +102,7 @@ def main():
     today = datetime.now(timezone.utc).date()
     # Finish all API reads before writing, so incomplete results never replace the chart.
     for language in ("de", "en"):
-        (ROOT / "assets" / f"languages-{language}.svg").write_text(chart(totals, count, today, language), encoding="utf-8")
+        (ROOT / "assets" / f"languages-{language}-v2.svg").write_text(chart(totals, count, today, language), encoding="utf-8")
     print(f"Updated language charts from {count} public original repositories.")
 
 
