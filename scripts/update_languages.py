@@ -10,7 +10,7 @@ from urllib.parse import quote
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
-COLORS = {"JavaScript": "#f1e05a", "TypeScript": "#3178c6", "Python": "#3572a5", "HTML": "#e34c26", "CSS": "#563d7c", "Shell": "#89e051", "Java": "#b07219", "C++": "#f34b7d", "SCSS": "#c6538c", "Jupyter Notebook": "#da5b0b"}
+COLORS = {"JavaScript": "#f1e05a", "TypeScript": "#3178c6", "Python": "#f0a44b", "HTML": "#e34c26", "CSS": "#563d7c", "Shell": "#89e051", "Java": "#b07219", "C++": "#f34b7d", "SCSS": "#c6538c", "Jupyter Notebook": "#da5b0b"}
 
 
 def get_json(path):
