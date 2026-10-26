@@ -97,7 +97,7 @@ Lernprojekt für E-Mail-Bestätigung und anschließende Passwortwahl.
 
 Gemeinschaftsprojekt für Dienstleistungen, Nachrichten und Bewertungen. Mein Beitrag: Projektleitung und Mitarbeit in mehreren Bereichen.
 
-Die Projekt-READMEs beschreiben Einrichtung, Entwicklungsstand und bekannte Einschränkungen.
+
 
 ## Kontakt
 
