@@ -18,8 +18,6 @@
 </div>
 
 
-[**Visit portfolio →**](https://michael-koch-portfolio.vercel.app/) · [Projects](https://michael-koch-portfolio.vercel.app/cases.html) · [Contact](https://michael-koch-portfolio.vercel.app/contact.html)
-
 ## Hi, I’m Michael 👋
 
 I enjoy developing software, exploring new technologies and turning ideas into working applications. What motivates me most is solving challenging problems and creating something that helps people in their everyday lives.
