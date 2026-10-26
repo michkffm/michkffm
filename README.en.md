@@ -25,6 +25,9 @@
 The world of software development is constantly evolving, and that is exactly what inspires me. I am committed to continuous learning, constantly improving my skills, and exploring new technologies, tools, and approaches. My goal is to build innovative software that solves real-world problems and makes everyday life easier.
 
 
+
+
+
 ![“Anyone who has never made a mistake has never tried anything new.” — Albert Einstein](assets/einstein-alternating-en.gif)
 
 ## Technologies & tools
