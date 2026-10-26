@@ -71,7 +71,7 @@ The world of software development is constantly evolving, and that is exactly wh
 
 ![Language breakdown of my public GitHub projects](assets/languages-en-v2.svg)
 
-<sub>Updated automatically every day. Includes public original repositories, excluding forks and this profile repository. Shares represent code size, not time spent or proficiency. Team projects may be included.</sub>
+
 
 
 ## Selected projects
