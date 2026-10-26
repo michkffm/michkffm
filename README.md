@@ -97,12 +97,3 @@ Lernprojekt für E-Mail-Bestätigung und anschließende Passwortwahl.
 
 Gemeinschaftsprojekt für Dienstleistungen, Nachrichten und Bewertungen. Mein Beitrag: Projektleitung und Mitarbeit in mehreren Bereichen.
 
-
-
-## Kontakt
-
-Fragen zu einem Projekt oder eine Idee für die Zusammenarbeit? Schreib mir direkt per E-Mail:
-
-**[michkffm@icloud.com](mailto:michkffm@icloud.com)**
-
-<sub>Der Besucherzähler erfasst Bildaufrufe, keine eindeutigen Personen.</sub>
