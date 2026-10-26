@@ -25,6 +25,8 @@
 Die Welt der Softwareentwicklung verändert sich ständig – genau das begeistert mich. Ich lerne kontinuierlich dazu, entwickle meine Fähigkeiten stetig weiter und entdecke gerne neue Technologien, Werkzeuge und Ansätze. Mein Ziel ist es, innovative Software zu entwickeln, die echte Probleme löst und Menschen im Alltag unterstützt.
 
 
+
+
 ![„Wer noch nie einen Fehler gemacht hat, hat sich noch nie an etwas Neuem versucht.“ — Albert Einstein](assets/einstein-alternating-de.gif)
 
 ## Technologien & Werkzeuge
