@@ -80,7 +80,7 @@ The world of software development is constantly evolving, and that is exactly wh
 
 
 
-[**Play now →**](https://michkffm.github.io/Tic-Tac-Toe/) 
+
 
 [![PDF → EPUB — Python / PyQt6 / OCR](assets/PDF-zu-Epub-Konverter.gif)](https://github.com/michkffm/PDF-zu-Epub-Konverter)
 
