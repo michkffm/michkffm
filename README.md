@@ -74,16 +74,6 @@ Ich denke in Lösungen und verwandle analoge Abläufe gerne in digitale Möglich
 
 <sub>Automatisch täglich aktualisiert. Berücksichtigt öffentliche eigene Repositories ohne Forks und ohne dieses Profil-Repository. Die Anteile beruhen auf der Codegröße, nicht auf Arbeitszeit oder Kenntnisstand. Auch Teamprojekte können enthalten sein.</sub>
 
-## KI, MCP & aktuelle Lernthemen 🤖
-
-Ich erweitere mein Wissen über künstliche Intelligenz und beschäftige mich mit der Verbindung von KI, Webentwicklung und Python.
-
-- **MCP (Model Context Protocol):** KI-Anwendungen mit Werkzeugen, APIs und Datenquellen verbinden.
-- **LLMs (Large Language Models):** große Sprachmodelle verstehen und ihre Einbindung in Anwendungen erkunden.
-- **Machine Learning:** lernen, wie Modelle Muster in Daten erkennen und Vorhersagen treffen.
-- **Deep Learning:** neuronale Netze und deren Training verstehen.
-
-Mein Fokus liegt darauf, die Grundlagen zu verstehen und praktische Einsatzmöglichkeiten zu erkunden. Diese Themen sind aktuelle Lerninteressen; meine verlinkten Projekte zeigen meine bisherige Arbeit.
 
 ## Ausgewählte Projekte
 
