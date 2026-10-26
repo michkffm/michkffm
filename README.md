@@ -89,7 +89,7 @@ Mein Fokus liegt darauf, die Grundlagen zu verstehen und praktische Einsatzmögl
 
 [![Spielzeit · Tic-Tac-Toe](assets/Tic-Tac-Toe.gif)](https://github.com/michkffm/Tic-Tac-Toe)
 
-Tic-Tac-Toe für zwei Personen an einem Gerät. Direkt im Browser spielbar; das Repository enthält zusätzlich ein lokales Flask-Backend mit SQLite zum Speichern von Spielständen. Die Browser-Demo läuft ohne Serverspeicherung.
+Browserbasiertes Tic-Tac-Toe für einen oder zwei Spieler. Optionales Flask-Backend mit SQLite für die lokale Speicherung von Spielständen, die Demo läuft auch ohne Backend.
 
 [**Jetzt spielen →**](https://michkffm.github.io/Tic-Tac-Toe/) · [Repository](https://github.com/michkffm/Tic-Tac-Toe)
 
