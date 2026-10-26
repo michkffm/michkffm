@@ -20,9 +20,10 @@
 
 ## Hi, ich bin Michael 👋
 
-Ich entwickle gerne Software, entdecke neue Technologien und mache aus Ideen funktionierende Anwendungen. Besonders motiviert mich, knifflige Probleme zu lösen und etwas zu schaffen, das Menschen im Alltag weiterhilft.
+💻 Ich bin Softwareentwickler mit Leidenschaft für moderne Technologien und digitale Lösungen.
 
-Ich denke in Lösungen und verwandle analoge Abläufe gerne in digitale Möglichkeiten. Dabei begleite ich den gesamten Weg: von der ersten Idee über die Entwicklung bis zum fertigen Programm, das den Alltag einfacher macht.
+Die Welt der Softwareentwicklung verändert sich ständig – genau das begeistert mich. Ich lerne kontinuierlich dazu, entwickle meine Fähigkeiten stetig weiter und entdecke gerne neue Technologien, Werkzeuge und Ansätze. Mein Ziel ist es, innovative Software zu entwickeln, die echte Probleme löst und Menschen im Alltag unterstützt.
+
 
 ![„Wer noch nie einen Fehler gemacht hat, hat sich noch nie an etwas Neuem versucht.“ — Albert Einstein](assets/einstein-alternating-de.gif)
 
