@@ -20,9 +20,10 @@
 
 ## Hi, I’m Michael 👋
 
-I enjoy developing software, exploring new technologies and turning ideas into working applications. What motivates me most is solving challenging problems and creating something that helps people in their everyday lives.
+💻 I am a Software Developer with a passion for modern technologies and digital solutions.
 
-I’m a problem solver who enjoys turning everyday, manual processes into digital solutions. I take ideas through the entire journey: from the first concept through development to a finished application that makes everyday life easier.
+The world of software development is constantly evolving, and that is exactly what inspires me. I am committed to continuous learning, constantly improving my skills, and exploring new technologies, tools, and approaches. My goal is to build innovative software that solves real-world problems and makes everyday life easier.
+
 
 ![“Anyone who has never made a mistake has never tried anything new.” — Albert Einstein](assets/einstein-alternating-en.gif)
 
