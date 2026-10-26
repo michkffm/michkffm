@@ -17,9 +17,6 @@
 
 </div>
 
-## My portfolio
-
-Projects, skills and contact details, with interactive animations and a switch between German and English.
 
 [**Visit portfolio →**](https://michael-koch-portfolio.vercel.app/) · [Projects](https://michael-koch-portfolio.vercel.app/cases.html) · [Contact](https://michael-koch-portfolio.vercel.app/contact.html)
 
@@ -109,12 +106,4 @@ Learning project for email verification followed by password creation.
 
 Team project for services, messages and reviews. My contribution: project management and development across several areas.
 
-Project READMEs describe setup, development status and known limitations.
 
-## Let’s get in touch
-
-Questions about a project or an idea for working together? Email me directly:
-
-**[michkffm@icloud.com](mailto:michkffm@icloud.com)**
-
-<sub>The visitor counter measures image requests, not unique people.</sub>
