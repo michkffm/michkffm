@@ -18,8 +18,6 @@
 </div>
 
 
-[**Portfolio ansehen →**](https://michael-koch-portfolio.vercel.app/) · [Projekte](https://michael-koch-portfolio.vercel.app/cases.html) · [Kontakt](https://michael-koch-portfolio.vercel.app/contact.html)
-
 ## Hi, ich bin Michael 👋
 
 Ich entwickle gerne Software, entdecke neue Technologien und mache aus Ideen funktionierende Anwendungen. Besonders motiviert mich, knifflige Probleme zu lösen und etwas zu schaffen, das Menschen im Alltag weiterhilft.
