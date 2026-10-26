@@ -24,7 +24,7 @@
 
 The world of software development is constantly evolving, and that is exactly what inspires me. I am committed to continuous learning, constantly improving my skills, and exploring new technologies, tools, and approaches. My goal is to build innovative software that solves real-world problems and makes everyday life easier.
 
-<br>
+<br><br><br>
 
 
 
