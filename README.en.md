@@ -71,16 +71,6 @@ I’m a problem solver who enjoys turning everyday, manual processes into digita
 
 <sub>Updated automatically every day. Includes public original repositories, excluding forks and this profile repository. Shares represent code size, not time spent or proficiency. Team projects may be included.</sub>
 
-## AI, MCP & learning 🤖
-
-I’m expanding my knowledge of artificial intelligence and exploring how it connects to web development and Python.
-
-- **MCP (Model Context Protocol):** connecting AI applications with tools, APIs and data sources.
-- **LLMs (Large Language Models):** exploring language models and their integration into applications.
-- **Machine Learning:** learning how models identify patterns in data and make predictions.
-- **Deep Learning:** building an understanding of neural networks and how they are trained.
-
-My focus is on understanding the fundamentals and exploring practical applications. These are current learning interests; my linked projects show my work so far.
 
 ## Selected projects
 
