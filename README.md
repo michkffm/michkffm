@@ -17,9 +17,6 @@
 
 </div>
 
-## Mein Portfolio
-
-Projekte, Kenntnisse und Kontakt – mit interaktiven Animationen und Sprachwechsel zwischen Deutsch und Englisch.
 
 [**Portfolio ansehen →**](https://michael-koch-portfolio.vercel.app/) · [Projekte](https://michael-koch-portfolio.vercel.app/cases.html) · [Kontakt](https://michael-koch-portfolio.vercel.app/contact.html)
 
