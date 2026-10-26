@@ -72,8 +72,6 @@ Ich denke in Lösungen und verwandle analoge Abläufe gerne in digitale Möglich
 
 ![Sprachanteile meiner öffentlichen GitHub-Projekte](assets/languages-de-v2.svg)
 
-<sub>Automatisch täglich aktualisiert. Berücksichtigt öffentliche eigene Repositories ohne Forks und ohne dieses Profil-Repository. Die Anteile beruhen auf der Codegröße, nicht auf Arbeitszeit oder Kenntnisstand. Auch Teamprojekte können enthalten sein.</sub>
-
 
 ## Ausgewählte Projekte
 
