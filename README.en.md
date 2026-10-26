@@ -78,24 +78,24 @@ The world of software development is constantly evolving, and that is exactly wh
 
 [![Spielzeit · Tic-Tac-Toe](assets/Tic-Tac-Toe.gif)](https://github.com/michkffm/Tic-Tac-Toe)
 
-Browser-based Tic-Tac-Toe for one or two players. Includes an optional Flask backend with SQLite for local game save storage, while the browser demo runs independently without requiring a backend.
 
-[**Play now →**](https://michkffm.github.io/Tic-Tac-Toe/) · [Repository](https://github.com/michkffm/Tic-Tac-Toe)
+
+[**Play now →**](https://michkffm.github.io/Tic-Tac-Toe/) 
 
 [![PDF → EPUB — Python / PyQt6 / OCR](assets/PDF-zu-Epub-Konverter.gif)](https://github.com/michkffm/PDF-zu-Epub-Konverter)
 
-Desktop tool for PDF conversion, optical character recognition and EPUB output.
+
 
 [![Bewerbungstracker — JavaScript / CSS / localStorage](assets/Bewerbungtracker.gif)](https://github.com/michkffm/Bewerbungtracker)
 
-Track applications and their status. Data stays in the browser.
+
 
 [![Fullstack Registration — React / Express / MongoDB](assets/Fullstack-Registration.gif)](https://github.com/michkffm/Fullstack-Registration)
 
-Learning project for email verification followed by password creation.
+
 
 [![FinalProject — React / Tailwind / Node.js](assets/FinalProject.gif)](https://github.com/michkffm/FinalProject)
 
-Team project for services, messages and reviews. My contribution: project management and development across several areas.
+
 
 
