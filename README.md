@@ -75,23 +75,23 @@ Die Welt der Softwareentwicklung verändert sich ständig – genau das begeiste
 
 [![Spielzeit · Tic-Tac-Toe](assets/Tic-Tac-Toe.gif)](https://github.com/michkffm/Tic-Tac-Toe)
 
-Browserbasiertes Tic-Tac-Toe für einen oder zwei Spieler. Optionales Flask-Backend mit SQLite für die lokale Speicherung von Spielständen, die Demo läuft auch ohne Backend.
 
-[**Jetzt spielen →**](https://michkffm.github.io/Tic-Tac-Toe/) · [Repository](https://github.com/michkffm/Tic-Tac-Toe)
+
+[**Jetzt spielen →**](https://michkffm.github.io/Tic-Tac-Toe/) 
 
 [![PDF → EPUB — Python / PyQt6 / OCR](assets/PDF-zu-Epub-Konverter.gif)](https://github.com/michkffm/PDF-zu-Epub-Konverter)
 
-Desktop-Werkzeug für PDF-Konvertierung, Texterkennung und EPUB-Ausgabe.
+
 
 [![Bewerbungstracker — JavaScript / CSS / localStorage](assets/Bewerbungtracker.gif)](https://github.com/michkffm/Bewerbungtracker)
 
-Bewerbungen erfassen und ihren Status verfolgen. Die Daten bleiben im Browser.
+
 
 [![Fullstack Registration — React / Express / MongoDB](assets/Fullstack-Registration.gif)](https://github.com/michkffm/Fullstack-Registration)
 
-Lernprojekt für E-Mail-Bestätigung und anschließende Passwortwahl.
+
 
 [![FinalProject — React / Tailwind / Node.js](assets/FinalProject.gif)](https://github.com/michkffm/FinalProject)
 
-Gemeinschaftsprojekt für Dienstleistungen, Nachrichten und Bewertungen. Mein Beitrag: Projektleitung und Mitarbeit in mehreren Bereichen.
+
 
