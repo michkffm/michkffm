@@ -76,7 +76,7 @@ Die Welt der Softwareentwicklung verändert sich ständig – genau das begeiste
 
 
 
-[**Jetzt spielen →**](https://michkffm.github.io/Tic-Tac-Toe/) 
+
 
 [![PDF → EPUB — Python / PyQt6 / OCR](assets/PDF-zu-Epub-Konverter.gif)](https://github.com/michkffm/PDF-zu-Epub-Konverter)
 
