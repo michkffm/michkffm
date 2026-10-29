@@ -72,6 +72,15 @@ Die Welt der Softwareentwicklung verändert sich ständig – genau das begeiste
 
 ## Ausgewählte Projekte
 
+### Newsroom · The Guardian
+
+Nachrichten-App mit React und einer eigenen Python-Schnittstelle zur Guardian-API. Mit Suche, Themen- und Zeitraumfiltern, Merkliste, Deutsch/Englisch und Hell-/Dunkelmodus.
+
+[Live-App öffnen](https://newsroom-michkffm.onrender.com/) · [Quellcode](https://github.com/michkffm/NewsAPI) · [Im Portfolio ansehen](https://michael-koch-portfolio.vercel.app/project.html?id=newsroom)
+
+Projekt von Michael Koch
+
+
 [![Spielzeit · Tic-Tac-Toe](assets/Tic-Tac-Toe.gif)](https://github.com/michkffm/Tic-Tac-Toe)
 
 
@@ -92,7 +101,8 @@ Die Welt der Softwareentwicklung verändert sich ständig – genau das begeiste
 
 [![FinalProject — React / Tailwind / Node.js](assets/FinalProject.gif)](https://github.com/michkffm/FinalProject)
 
+---
 
+## Autor
 
-
-
+[Michael Koch](https://github.com/michkffm)
