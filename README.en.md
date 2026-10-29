@@ -78,15 +78,9 @@ The world of software development is constantly evolving, and that is exactly wh
 
 [![Newsroom · The Guardian — React / Vite / Python / Guardian API](assets/NewsAPI.gif)](https://github.com/michkffm/NewsAPI)
 
-A React news app with a custom Python gateway to the Guardian API. Includes search, topic and date filters, bookmarks, German/English and light/dark mode.
-
-[Open live app](https://newsroom-michkffm.onrender.com/) · [Source code](https://github.com/michkffm/NewsAPI) · [View in portfolio](https://michael-koch-portfolio.vercel.app/project.html?id=newsroom)
-
-A project by Michael Koch
 
 
 [![Spielzeit · Tic-Tac-Toe](assets/Tic-Tac-Toe.gif)](https://github.com/michkffm/Tic-Tac-Toe)
-
 
 
 
@@ -107,6 +101,3 @@ A project by Michael Koch
 
 ---
 
-## Author
-
-[Michael Koch](https://github.com/michkffm)
