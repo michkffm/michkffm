@@ -72,7 +72,7 @@ Die Welt der Softwareentwicklung verändert sich ständig – genau das begeiste
 
 ## Ausgewählte Projekte
 
-### Newsroom · The Guardian
+[![Newsroom · The Guardian — React / Vite / Python / Guardian API](assets/NewsAPI.gif)](https://github.com/michkffm/NewsAPI)
 
 Nachrichten-App mit React und einer eigenen Python-Schnittstelle zur Guardian-API. Mit Suche, Themen- und Zeitraumfiltern, Merkliste, Deutsch/Englisch und Hell-/Dunkelmodus.
 
