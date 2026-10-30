@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="378" viewBox="0 0 760 378" role="img" aria-labelledby="title desc">
 <title id="title">Meine Sprachen im Code</title>
-<desc id="desc">7 öffentliche Original-Repositories · Codegröße in Bytes. JavaScript: 55.5%, Python: 29.9%, TypeScript: 7.1%, CSS: 3.8%, HTML: 3.6%, Shell: 0.1%</desc>
+<desc id="desc">7 öffentliche Original-Repositories · Codegröße in Bytes. JavaScript: 55.1%, Python: 30.4%, TypeScript: 7.0%, CSS: 3.8%, HTML: 3.6%, Shell: 0.1%</desc>
 <rect x="1" y="1" width="758" height="376" rx="18" fill="#0d1117" stroke="#30363d"/>
 <g font-family="Arial, Helvetica, sans-serif">
 <text x="28" y="40" fill="#f0f6fc" font-size="22" font-weight="700">Meine Sprachen im Code</text>
 <text x="28" y="65" fill="#a5b1bf" font-size="13">7 öffentliche Original-Repositories · Codegröße in Bytes</text>
 <defs><clipPath id="bar"><rect x="28" y="86" width="704" height="14" rx="7"/></clipPath></defs>
 <g clip-path="url(#bar)">
-<rect x="28.000" y="86" width="390.681" height="14" fill="#f1e05a"/>
-<rect x="418.681" y="86" width="210.149" height="14" fill="#f0a44b"/>
-<rect x="628.829" y="86" width="49.925" height="14" fill="#3178c6"/>
-<rect x="678.755" y="86" width="27.002" height="14" fill="#563d7c"/>
-<rect x="705.756" y="86" width="25.338" height="14" fill="#e34c26"/>
-<rect x="731.094" y="86" width="0.906" height="14" fill="#89e051"/>
+<rect x="28.000" y="86" width="387.468" height="14" fill="#f1e05a"/>
+<rect x="415.468" y="86" width="214.209" height="14" fill="#f0a44b"/>
+<rect x="629.678" y="86" width="49.515" height="14" fill="#3178c6"/>
+<rect x="679.192" y="86" width="26.780" height="14" fill="#563d7c"/>
+<rect x="705.972" y="86" width="25.130" height="14" fill="#e34c26"/>
+<rect x="731.102" y="86" width="0.898" height="14" fill="#89e051"/>
 </g>
 <circle cx="35" cy="130" r="5" fill="#f1e05a"/>
 <text x="52" y="135" fill="#f0f6fc" font-size="15">JavaScript</text>
-<text x="732" y="135" fill="#c9d1d9" font-size="15" text-anchor="end">55,5 %</text>
+<text x="732" y="135" fill="#c9d1d9" font-size="15" text-anchor="end">55,1 %</text>
 <circle cx="35" cy="164" r="5" fill="#f0a44b"/>
 <text x="52" y="169" fill="#f0f6fc" font-size="15">Python</text>
-<text x="732" y="169" fill="#c9d1d9" font-size="15" text-anchor="end">29,9 %</text>
+<text x="732" y="169" fill="#c9d1d9" font-size="15" text-anchor="end">30,4 %</text>
 <circle cx="35" cy="198" r="5" fill="#3178c6"/>
 <text x="52" y="203" fill="#f0f6fc" font-size="15">TypeScript</text>
-<text x="732" y="203" fill="#c9d1d9" font-size="15" text-anchor="end">7,1 %</text>
+<text x="732" y="203" fill="#c9d1d9" font-size="15" text-anchor="end">7,0 %</text>
 <circle cx="35" cy="232" r="5" fill="#563d7c"/>
 <text x="52" y="237" fill="#f0f6fc" font-size="15">CSS</text>
 <text x="732" y="237" fill="#c9d1d9" font-size="15" text-anchor="end">3,8 %</text>
@@ -32,4 +32,4 @@
 <circle cx="35" cy="300" r="5" fill="#89e051"/>
 <text x="52" y="305" fill="#f0f6fc" font-size="15">Shell</text>
 <text x="732" y="305" fill="#c9d1d9" font-size="15" text-anchor="end">0,1 %</text>
-<text x="28" y="355" fill="#a5b1bf" font-size="12">Aktualisiert: 2026-10-29 · UTC</text></g></svg>
+<text x="28" y="355" fill="#a5b1bf" font-size="12">Aktualisiert: 2026-10-30 · UTC</text></g></svg>
