@@ -1,4 +1,3 @@
-"""Build bilingual profile charts from public, non-fork repository language bytes."""
 import json
 import os
 import re
@@ -33,7 +32,7 @@ def collect(owner, fetch=get_json):
         for repo in repos:
             if not isinstance(repo, dict) or not isinstance(repo.get("name"), str):
                 raise ValueError("Invalid repository metadata")
-            # The profile is presentation material, not a software project.
+    
             if repo.get("fork") or repo.get("private") or repo["name"].lower() == owner.lower():
                 continue
             languages = fetch(f"/repos/{quote(owner)}/{quote(repo['name'], safe='')}/languages")
@@ -51,7 +50,6 @@ def collect(owner, fetch=get_json):
 
 
 def shares(totals):
-    # Largest remainder rounding keeps the displayed percentages at exactly 100.0%.
     items = sorted(((name, size) for name, size in totals.items() if size > 0), key=lambda item: (-item[1], item[0]))
     total = sum(size for _, size in items)
     units = [size * 1000 // total for _, size in items]
@@ -100,7 +98,6 @@ def main():
         raise ValueError("Invalid profile owner")
     totals, count = collect(owner)
     today = datetime.now(timezone.utc).date()
-    # Finish all API reads before writing, so incomplete results never replace the chart.
     for language in ("de", "en"):
         (ROOT / "assets" / f"languages-{language}-v2.svg").write_text(chart(totals, count, today, language), encoding="utf-8")
     print(f"Updated language charts from {count} public original repositories.")
