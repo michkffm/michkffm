@@ -7,12 +7,12 @@
 <text x="28" y="65" fill="#a5b1bf" font-size="13">7 öffentliche Original-Repositories · Codegröße in Bytes</text>
 <defs><clipPath id="bar"><rect x="28" y="86" width="704" height="14" rx="7"/></clipPath></defs>
 <g clip-path="url(#bar)">
-<rect x="28.000" y="86" width="387.468" height="14" fill="#f1e05a"/>
-<rect x="415.468" y="86" width="214.209" height="14" fill="#f0a44b"/>
-<rect x="629.678" y="86" width="49.515" height="14" fill="#3178c6"/>
-<rect x="679.192" y="86" width="26.780" height="14" fill="#563d7c"/>
-<rect x="705.972" y="86" width="25.130" height="14" fill="#e34c26"/>
-<rect x="731.102" y="86" width="0.898" height="14" fill="#89e051"/>
+<rect x="28.000" y="86" width="387.676" height="14" fill="#f1e05a"/>
+<rect x="415.676" y="86" width="213.902" height="14" fill="#f0a44b"/>
+<rect x="629.578" y="86" width="49.563" height="14" fill="#3178c6"/>
+<rect x="679.141" y="86" width="26.806" height="14" fill="#563d7c"/>
+<rect x="705.946" y="86" width="25.155" height="14" fill="#e34c26"/>
+<rect x="731.101" y="86" width="0.899" height="14" fill="#89e051"/>
 </g>
 <circle cx="35" cy="130" r="5" fill="#f1e05a"/>
 <text x="52" y="135" fill="#f0f6fc" font-size="15">JavaScript</text>
@@ -32,4 +32,4 @@
 <circle cx="35" cy="300" r="5" fill="#89e051"/>
 <text x="52" y="305" fill="#f0f6fc" font-size="15">Shell</text>
 <text x="732" y="305" fill="#c9d1d9" font-size="15" text-anchor="end">0,1 %</text>
-<text x="28" y="355" fill="#a5b1bf" font-size="12">Aktualisiert: 2026-10-30 · UTC</text></g></svg>
+<text x="28" y="355" fill="#a5b1bf" font-size="12">Aktualisiert: 2026-10-31 · UTC</text></g></svg>
