@@ -76,7 +76,7 @@ The world of software development is constantly evolving, and that is exactly wh
 
 ## Selected projects
 
-[![Recipe Kitchen — desktop recipe search in German, light theme · React / JavaScript / Vite](assets/recipe-app-desktop.png)](https://github.com/michkffm/Rezepte)
+[![Recipe Kitchen · Recipe search — React / JavaScript / Vite](assets/Recipe-Kitchen.gif)](https://github.com/michkffm/Rezepte)
 
 [![Newsroom · The Guardian — React / Vite / Python / Guardian API](assets/NewsAPI.gif)](https://github.com/michkffm/NewsAPI)
 

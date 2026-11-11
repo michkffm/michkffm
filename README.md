@@ -72,7 +72,7 @@ Die Welt der Softwareentwicklung verändert sich ständig – genau das begeiste
 
 ## Ausgewählte Projekte
 
-[![RezeptKoch — Rezeptsuche auf dem Desktop, Deutsch im Hellmodus · React / JavaScript / Vite](assets/recipe-app-desktop.png)](https://github.com/michkffm/Rezepte)
+[![RezeptKoch · Rezeptsuche — React / JavaScript / Vite](assets/RezeptKoch.gif)](https://github.com/michkffm/Rezepte)
 
 [![Newsroom · The Guardian — React / Vite / Python / Guardian API](assets/NewsAPI.gif)](https://github.com/michkffm/NewsAPI)
 
