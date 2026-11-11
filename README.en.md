@@ -76,15 +76,7 @@ The world of software development is constantly evolving, and that is exactly wh
 
 ## Selected projects
 
-### Recipe Kitchen · Recipe search
-
-A React app with live recipe search, categories, random recipes, and recipe details. The interface is available in German and English and includes light and dark themes. Recipe names and instructions remain in the language supplied by the recipe provider.
-
-[Open the app ↗](https://michkffm.github.io/Rezepte/) · [GitHub repository ↗](https://github.com/michkffm/Rezepte)
-
-| Desktop · Deutsch · Light | Smartphone · English · Dark |
-| --- | --- |
-| [<img src="assets/recipe-app-desktop.png" alt="Recipe Kitchen on desktop: German recipe search in the light theme." width="600">](https://michkffm.github.io/Rezepte/) | [<img src="assets/recipe-app-mobile.png" alt="Recipe Kitchen on a smartphone: English recipe search in the dark theme." width="200">](https://michkffm.github.io/Rezepte/) |
+[![Recipe Kitchen — desktop recipe search in German, light theme · React / JavaScript / Vite](assets/recipe-app-desktop.png)](https://github.com/michkffm/Rezepte)
 
 [![Newsroom · The Guardian — React / Vite / Python / Guardian API](assets/NewsAPI.gif)](https://github.com/michkffm/NewsAPI)
 

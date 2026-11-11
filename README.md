@@ -72,15 +72,7 @@ Die Welt der Softwareentwicklung verändert sich ständig – genau das begeiste
 
 ## Ausgewählte Projekte
 
-### RezeptKoch · Rezeptsuche
-
-React-App mit Live-Suche, Kategorien, Zufallsrezepten und Rezeptdetails. Die Oberfläche ist auf Deutsch und Englisch verfügbar und bietet Hell- und Dunkelmodus. Rezeptnamen und Anleitungen erscheinen in der Sprache, in der der Rezeptanbieter sie bereitstellt.
-
-[App öffnen ↗](https://michkffm.github.io/Rezepte/) · [GitHub-Repository ↗](https://github.com/michkffm/Rezepte)
-
-| Desktop · Deutsch · Hell | Smartphone · English · Dark |
-| --- | --- |
-| [<img src="assets/recipe-app-desktop.png" alt="RezeptKoch auf dem Desktop: Rezeptsuche auf Deutsch im hellen Modus." width="600">](https://michkffm.github.io/Rezepte/) | [<img src="assets/recipe-app-mobile.png" alt="Recipe Kitchen on a smartphone: English recipe search in dark mode." width="200">](https://michkffm.github.io/Rezepte/) |
+[![RezeptKoch — Rezeptsuche auf dem Desktop, Deutsch im Hellmodus · React / JavaScript / Vite](assets/recipe-app-desktop.png)](https://github.com/michkffm/Rezepte)
 
 [![Newsroom · The Guardian — React / Vite / Python / Guardian API](assets/NewsAPI.gif)](https://github.com/michkffm/NewsAPI)
 
