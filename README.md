@@ -40,20 +40,20 @@ Die Welt der Softwareentwicklung verändert sich ständig – genau das begeiste
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/bootstrap/bootstrap-original.svg" width="42" height="42" alt="Bootstrap" title="Bootstrap">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js">
-<img src="assets/express-card.svg?v=dark" width="42" height="42" alt="Express" title="Express">
+<img src="https://raw.githubusercontent.com/michkffm/michkffm/4c036993d4d719197f863691e59b300186487036/assets/express-card.svg" width="42" height="42" alt="Express" title="Express">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" title="MongoDB">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/azuredevops/azuredevops-original.svg" width="42" height="42" alt="Azure DevOps" title="Azure DevOps">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git">
-<img src="assets/github-card.svg?v=dark" width="42" height="42" alt="GitHub" title="GitHub">
+<img src="https://raw.githubusercontent.com/michkffm/michkffm/4c036993d4d719197f863691e59b300186487036/assets/github-card.svg" width="42" height="42" alt="GitHub" title="GitHub">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vitejs/vitejs-original.svg" width="42" height="42" alt="Vite" title="Vite">
-<img src="assets/threejs-card.svg?v=dark" width="42" height="42" alt="Three.js" title="Three.js">
-<img src="assets/azure-card.svg?v=dark" width="42" height="42" alt="Microsoft Azure" title="Microsoft Azure">
-<img src="assets/amazonwebservices-card.svg?v=dark" width="42" height="42" alt="AWS — Amazon Web Services" title="AWS — Amazon Web Services">
-<img src="assets/mysql-card.svg?v=dark" width="42" height="42" alt="MySQL" title="MySQL">
-<img src="assets/postgresql-card.svg?v=dark" width="42" height="42" alt="PostgreSQL" title="PostgreSQL">
-<img src="assets/sqlite-card.svg?v=dark" width="42" height="42" alt="SQLite" title="SQLite">
-<img src="assets/mariadb-card.svg?v=dark" width="42" height="42" alt="MariaDB" title="MariaDB">
-<img src="assets/docker-card.svg?v=dark" width="42" height="42" alt="Docker" title="Docker">
+<img src="https://raw.githubusercontent.com/michkffm/michkffm/4c036993d4d719197f863691e59b300186487036/assets/threejs-card.svg" width="42" height="42" alt="Three.js" title="Three.js">
+<img src="https://raw.githubusercontent.com/michkffm/michkffm/4c036993d4d719197f863691e59b300186487036/assets/azure-card.svg" width="42" height="42" alt="Microsoft Azure" title="Microsoft Azure">
+<img src="https://raw.githubusercontent.com/michkffm/michkffm/4c036993d4d719197f863691e59b300186487036/assets/amazonwebservices-card.svg" width="42" height="42" alt="AWS — Amazon Web Services" title="AWS — Amazon Web Services">
+<img src="https://raw.githubusercontent.com/michkffm/michkffm/4c036993d4d719197f863691e59b300186487036/assets/mysql-card.svg" width="42" height="42" alt="MySQL" title="MySQL">
+<img src="https://raw.githubusercontent.com/michkffm/michkffm/4c036993d4d719197f863691e59b300186487036/assets/postgresql-card.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL">
+<img src="https://raw.githubusercontent.com/michkffm/michkffm/4c036993d4d719197f863691e59b300186487036/assets/sqlite-card.svg" width="42" height="42" alt="SQLite" title="SQLite">
+<img src="https://raw.githubusercontent.com/michkffm/michkffm/4c036993d4d719197f863691e59b300186487036/assets/mariadb-card.svg" width="42" height="42" alt="MariaDB" title="MariaDB">
+<img src="https://raw.githubusercontent.com/michkffm/michkffm/4c036993d4d719197f863691e59b300186487036/assets/docker-card.svg" width="42" height="42" alt="Docker" title="Docker">
 </p>
 
 | Bereich | Technologien |
