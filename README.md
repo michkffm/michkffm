@@ -78,7 +78,7 @@ Die Welt der Softwareentwicklung verändert sich ständig – genau das begeiste
 
 
 
-[![TanzMatch — React / TypeScript / Express / MongoDB](assets/TanzMatch.gif)](https://github.com/michkffm/tanzmatch)
+[![Clever Match — React / TypeScript / Express / MongoDB](assets/Clever-Match.gif)](https://github.com/michkffm/clever-match)
 
 [![Spielzeit · Tic-Tac-Toe](assets/Tic-Tac-Toe.gif)](https://github.com/michkffm/Tic-Tac-Toe)
 

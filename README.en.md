@@ -82,7 +82,7 @@ The world of software development is constantly evolving, and that is exactly wh
 
 
 
-[![TanzMatch — React / TypeScript / Express / MongoDB](assets/TanzMatch.gif)](https://github.com/michkffm/tanzmatch)
+[![Clever Match — React / TypeScript / Express / MongoDB](assets/Clever-Match.gif)](https://github.com/michkffm/clever-match)
 
 [![Spielzeit · Tic-Tac-Toe](assets/Tic-Tac-Toe.gif)](https://github.com/michkffm/Tic-Tac-Toe)
 
