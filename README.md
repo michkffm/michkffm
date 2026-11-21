@@ -58,11 +58,13 @@ Die Welt der Softwareentwicklung verändert sich ständig – genau das begeiste
 
 | Bereich | Technologien |
 | --- | --- |
-| Frontend | HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Tailwind CSS |
-| Backend & APIs | Node.js, Express, Python, REST-APIs |
-| Datenbanken & SQL | MongoDB, MySQL, PostgreSQL, SQLite, MariaDB · SQL (Abfragesprache) |
-| Entwicklung & Werkzeuge | Git, GitHub, Azure DevOps, Docker, Vite |
-| Cloud & DevOps | Microsoft Azure, Azure DevOps, AWS (Amazon Web Services) |
+| Frontend | HTML, CSS, JavaScript, TypeScript, React, React Router, Zustand, Bootstrap, Tailwind CSS |
+| Backend & APIs | Node.js, Express, Python, REST-APIs, WebSockets |
+| Mobile & plattformübergreifend | React Native, Expo, Expo Router · Web, Android, iOS |
+| Datenbanken & SQL | MongoDB, Mongoose, MySQL, PostgreSQL, SQLite, MariaDB · SQL (Abfragesprache) |
+| Backend-Dienste | Supabase Auth, PostgreSQL & Storage, Cloudinary, Resend |
+| Entwicklung & Werkzeuge | Git, GitHub, GitHub Actions, Azure DevOps, Docker, Vite, ESLint |
+| Cloud & DevOps | Microsoft Azure, Azure DevOps, AWS (Amazon Web Services), Vercel, Render |
 | Interaktive 3D-Welten | Three.js, React Three Fiber, Rapier |
 
 ## Meine Programmiersprachen
@@ -71,6 +73,8 @@ Die Welt der Softwareentwicklung verändert sich ständig – genau das begeiste
 
 
 ## Ausgewählte Projekte
+
+[![Ehrenamtsplaner — Expo / React Native / TypeScript / Supabase](assets/Ehrenamtsplaner-de.gif)](https://ehrenamtsplaner.vercel.app/)
 
 [![RezeptKoch · Rezeptsuche — React / JavaScript / Vite](assets/RezeptKoch.gif)](https://github.com/michkffm/Rezepte)
 

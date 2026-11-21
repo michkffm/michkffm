@@ -60,11 +60,13 @@ The world of software development is constantly evolving, and that is exactly wh
 
 | Area | Technologies |
 | --- | --- |
-| Frontend | HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Tailwind CSS |
-| Backend & APIs | Node.js, Express, Python, REST APIs |
-| Databases & SQL | MongoDB, MySQL, PostgreSQL, SQLite, MariaDB · SQL (query language) |
-| Development & tools | Git, GitHub, Azure DevOps, Docker, Vite |
-| Cloud & DevOps | Microsoft Azure, Azure DevOps, AWS (Amazon Web Services) |
+| Frontend | HTML, CSS, JavaScript, TypeScript, React, React Router, Zustand, Bootstrap, Tailwind CSS |
+| Backend & APIs | Node.js, Express, Python, REST APIs, WebSockets |
+| Mobile & cross-platform | React Native, Expo, Expo Router · Web, Android, iOS |
+| Databases & SQL | MongoDB, Mongoose, MySQL, PostgreSQL, SQLite, MariaDB · SQL (query language) |
+| Backend services | Supabase Auth, PostgreSQL & Storage, Cloudinary, Resend |
+| Development & tools | Git, GitHub, GitHub Actions, Azure DevOps, Docker, Vite, ESLint |
+| Cloud & DevOps | Microsoft Azure, Azure DevOps, AWS (Amazon Web Services), Vercel, Render |
 | Interactive 3D | Three.js, React Three Fiber, Rapier |
 
 ## My programming languages
@@ -75,6 +77,8 @@ The world of software development is constantly evolving, and that is exactly wh
 
 
 ## Selected projects
+
+[![Volunteer Planner — Expo / React Native / TypeScript / Supabase](assets/Ehrenamtsplaner-en.gif)](https://ehrenamtsplaner.vercel.app/)
 
 [![Recipe Kitchen · Recipe search — React / JavaScript / Vite](assets/Recipe-Kitchen.gif)](https://github.com/michkffm/Rezepte)
 
