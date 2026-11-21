@@ -74,7 +74,7 @@ Die Welt der Softwareentwicklung verändert sich ständig – genau das begeiste
 
 ## Ausgewählte Projekte
 
-[![Ehrenamtsplaner — Expo / React Native / TypeScript / Supabase](assets/Ehrenamtsplaner-de.gif)](https://ehrenamtsplaner.vercel.app/)
+[![Ehrenamtsplaner — Expo / React Native / TypeScript / Supabase](assets/Ehrenamtsplaner-de.gif)](https://github.com/michkffm/ehrenamtsplaner)
 
 [![RezeptKoch · Rezeptsuche — React / JavaScript / Vite](assets/RezeptKoch.gif)](https://github.com/michkffm/Rezepte)
 

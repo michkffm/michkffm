@@ -78,7 +78,7 @@ The world of software development is constantly evolving, and that is exactly wh
 
 ## Selected projects
 
-[![Volunteer Planner — Expo / React Native / TypeScript / Supabase](assets/Ehrenamtsplaner-en.gif)](https://ehrenamtsplaner.vercel.app/)
+[![Volunteer Planner — Expo / React Native / TypeScript / Supabase](assets/Ehrenamtsplaner-en.gif)](https://github.com/michkffm/ehrenamtsplaner)
 
 [![Recipe Kitchen · Recipe search — React / JavaScript / Vite](assets/Recipe-Kitchen.gif)](https://github.com/michkffm/Rezepte)
 
