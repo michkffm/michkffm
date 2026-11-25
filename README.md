@@ -76,9 +76,9 @@ Die Welt der Softwareentwicklung verändert sich ständig – genau das begeiste
 
 [![Ehrenamtsplaner — Expo / React Native / TypeScript / Supabase](assets/Ehrenamtsplaner-de.gif)](https://github.com/michkffm/ehrenamtsplaner)
 
-[![HeartPulse · Dating-App · Expo / React Native / iOS / Android](assets/HeartPulse-de.gif)](https://github.com/michkffm/Dating-App-IOS-Android)
+[![HeartPulse · Expo / React Native / iOS / Android](assets/project-HeartPulse-de.gif)](https://github.com/michkffm/Dating-App-IOS-Android)
 
-[![KI-Aktienanalyst · Lokales gettex-Dashboard · JavaScript / Node.js / REST-API / Ollama](assets/KI-Aktienanalyst-de.gif)](https://github.com/michkffm/ki-aktienanalyst)
+[![KI-Aktienanalyst · JavaScript / Node.js / REST-API / Ollama](assets/project-KI-Aktienanalyst-de.gif)](https://github.com/michkffm/ki-aktienanalyst)
 
 [![RezeptKoch · Rezeptsuche — React / JavaScript / Vite](assets/RezeptKoch.gif)](https://github.com/michkffm/Rezepte)
 

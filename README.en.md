@@ -80,9 +80,9 @@ The world of software development is constantly evolving, and that is exactly wh
 
 [![Volunteer Planner — Expo / React Native / TypeScript / Supabase](assets/Ehrenamtsplaner-en.gif)](https://github.com/michkffm/ehrenamtsplaner)
 
-[![HeartPulse · Dating App · Expo / React Native / iOS / Android](assets/HeartPulse-en.gif)](https://github.com/michkffm/Dating-App-IOS-Android)
+[![HeartPulse · Expo / React Native / iOS / Android](assets/project-HeartPulse-en.gif)](https://github.com/michkffm/Dating-App-IOS-Android)
 
-[![AI Stock Analyst · Local gettex dashboard · JavaScript / Node.js / REST API / Ollama](assets/KI-Aktienanalyst-en.gif)](https://github.com/michkffm/ki-aktienanalyst)
+[![AI Stock Analyst · JavaScript / Node.js / REST API / Ollama](assets/project-KI-Aktienanalyst-en.gif)](https://github.com/michkffm/ki-aktienanalyst)
 
 [![Recipe Kitchen · Recipe search — React / JavaScript / Vite](assets/Recipe-Kitchen.gif)](https://github.com/michkffm/Rezepte)
 
