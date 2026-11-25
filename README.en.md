@@ -82,7 +82,7 @@ The world of software development is constantly evolving, and that is exactly wh
 
 [![HeartPulse · Dating app with a fictional example profile · Expo / React Native / iOS / Android](assets/HeartPulse-en.gif)](https://github.com/michkffm/Dating-App-IOS-Android)
 
-[![AI Stock Analyst · Local gettex dashboard with a fictional demo preview · JavaScript / Node.js / REST API / Ollama](assets/KI-Aktienanalyst-en.gif)](https://michael-koch-portfolio.vercel.app/project.html?id=ki-aktienanalyst)
+[![AI Stock Analyst · Local gettex dashboard with a fictional demo preview · JavaScript / Node.js / REST API / Ollama](assets/KI-Aktienanalyst-en.gif)](https://github.com/michkffm/ki-aktienanalyst)
 
 [![Recipe Kitchen · Recipe search — React / JavaScript / Vite](assets/Recipe-Kitchen.gif)](https://github.com/michkffm/Rezepte)
 
