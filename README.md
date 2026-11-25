@@ -76,6 +76,8 @@ Die Welt der Softwareentwicklung verändert sich ständig – genau das begeiste
 
 [![Ehrenamtsplaner — Expo / React Native / TypeScript / Supabase](assets/Ehrenamtsplaner-de.gif)](https://github.com/michkffm/ehrenamtsplaner)
 
+[![HeartPulse · Dating-App mit fiktivem Beispielprofil · Expo / React Native / iOS / Android](assets/HeartPulse-de.gif)](https://github.com/michkffm/Dating-App-IOS-Android)
+
 [![KI-Aktienanalyst · Lokales gettex-Dashboard mit fiktiver Vorschau · JavaScript / Node.js / REST-API / Ollama](assets/KI-Aktienanalyst-de.gif)](https://michael-koch-portfolio.vercel.app/project.html?id=ki-aktienanalyst)
 
 [![RezeptKoch · Rezeptsuche — React / JavaScript / Vite](assets/RezeptKoch.gif)](https://github.com/michkffm/Rezepte)
